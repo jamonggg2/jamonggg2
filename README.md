@@ -33,7 +33,8 @@ I have 2.5 years of extensive project experience across the financial sector.ğŸ
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </span>
+</br>
 </p>
 
-
+[![jamonggg2's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamonggg2&hide=contribs,stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
